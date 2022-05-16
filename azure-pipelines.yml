@@ -93,7 +93,7 @@ strategy:
       pythonVersion: "3.10"
       platform: x64
       winArch: "win64"
-    windows-32bit-py38:
+    windows-32bit-py10:
       imageName: "windows-2022"
       pythonVersion: "3.10"
       platform: x86
